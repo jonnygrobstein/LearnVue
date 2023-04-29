@@ -44,9 +44,9 @@ Declrative programming approach
 **Binding data** uses {{ double curly brackets with property name }}
 or use a directive
 
-`
+```
 <div v-text='channel'></div>
-`
+```
 
 v-text is rarely used and slower and more restrictive
 
