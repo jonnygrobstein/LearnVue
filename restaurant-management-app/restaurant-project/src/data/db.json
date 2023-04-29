@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "username": "Jonny",
+      "email": "jonnygrobstein@gmail.com",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "email": "joenathan@test.com",
+      "password": "password",
+      "name": "Joe Nathan",
+      "id": 2
+    },
+    {
+      "email": "JoeNathan@testing.com",
+      "password": "password",
+      "name": "Joseph Nathanial",
+      "id": 3
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 4
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 5
+    }
+  ]
+}
